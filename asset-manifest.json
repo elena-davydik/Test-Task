@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Test-Task/static/css/main.acaee352.css",
+    "main.js": "/Test-Task/static/js/main.2fc05f0e.js",
+    "static/js/787.e8769ff5.chunk.js": "/Test-Task/static/js/787.e8769ff5.chunk.js",
+    "static/media/repairing.svg": "/Test-Task/static/media/repairing.73731e083eed8ea7cb09c000ca7ab08d.svg",
+    "static/media/relocation.svg": "/Test-Task/static/media/relocation.f203da347930f86410a2594201c2b1d3.svg",
+    "static/media/window.svg": "/Test-Task/static/media/window.e69376b89d491e0af36b1603f42143e3.svg",
+    "static/media/house.svg": "/Test-Task/static/media/house.11cbb531a943445b3af4082f382f38e5.svg",
+    "static/media/paper-scroll.svg": "/Test-Task/static/media/paper-scroll.ebacb65cfd8686d7151a0a6872424abd.svg",
+    "static/media/money-bag.svg": "/Test-Task/static/media/money-bag.dcfc4f14110d43b0f75fca753a3c87ea.svg",
+    "static/media/tag.svg": "/Test-Task/static/media/tag.ff74ea5146722a6206ddde4895b0c98d.svg",
+    "index.html": "/Test-Task/index.html",
+    "static/media/close.svg": "/Test-Task/static/media/close.a26ecda40fbae0b3b1551c96a353b54b.svg",
+    "static/media/cart.svg": "/Test-Task/static/media/cart.fc1d5e686ba1f070614a7c47d3b47a84.svg",
+    "static/media/shekel.svg": "/Test-Task/static/media/shekel.639be651c10b643f8cf2df7437bb4d32.svg",
+    "static/media/plus.svg": "/Test-Task/static/media/plus.84478f1596d8d93aef242201a227b42b.svg",
+    "main.acaee352.css.map": "/Test-Task/static/css/main.acaee352.css.map",
+    "main.2fc05f0e.js.map": "/Test-Task/static/js/main.2fc05f0e.js.map",
+    "787.e8769ff5.chunk.js.map": "/Test-Task/static/js/787.e8769ff5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acaee352.css",
+    "static/js/main.2fc05f0e.js"
+  ]
+}
