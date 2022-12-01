@@ -39,7 +39,7 @@ input:focus {
 .adress {
 	width: 330px;
 	min-height: 100px;
-	height: 100px;
+	height: 100%;
 	padding: 15px;
 	flex-wrap: wrap;
 
