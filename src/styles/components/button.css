@@ -1,0 +1,165 @@
+button {
+	margin: 5px 5px;
+	display: inline-flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.buttons {
+	width: 100%;
+}
+
+.light {
+	background: #f5f2f2;
+	border: none;
+	border-radius: 4px;
+	box-shadow: 2px 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+.light:hover {
+	background: #ffffff;
+	box-shadow: 2px 1px 4px rgba(99, 93, 96, 0.3);
+}
+
+.light.click {
+	color: #a0627b;
+	background: #f5f2f2;
+	box-shadow: 2px 1px 4px rgba(99, 93, 96, 0.3);
+}
+
+.dark {
+	background: #a0627b;
+	border: none;
+	border-radius: 4px;
+	box-shadow: 2px 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+.dark:hover {
+	background: #a85a79;
+	box-shadow: 2px 1px 4px rgba(99, 93, 96, 0.3);
+}
+
+.dark.click {
+	color: #f5f2f2;
+	background: #a0627b;
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.disable {
+	color: rgba(160, 98, 123, 0.4);
+	background: #f5f2f2;
+	border: none;
+	border-radius: 4px;
+	box-shadow: 2px 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+.size-fill {
+	width: 100%;
+}
+
+.size-fixed {
+	padding: 0 30px;
+}
+
+.black,
+.black.click {
+	color: black;
+}
+
+.green,
+.green.click {
+	color: #37a834;
+}
+
+.blue,
+.blue.click {
+	color: #029ae4;
+}
+
+.pink {
+	color: #a0627b;
+}
+.pink:hover {
+	color: #a85a79;
+}
+
+.pink-background {
+	background-color: rgb(253, 210, 217);
+}
+
+.white {
+	color: #f5f2f2;
+}
+.white:hover {
+	color: #ffffff;
+}
+
+.white-background {
+	background-color: white;
+}
+
+.large {
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 22px;
+}
+
+.medium {
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 16px;
+}
+
+.small {
+	padding: 5px 10px;
+
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 16px;
+}
+
+.icon {
+	height: 100%;
+}
+
+.nums {
+	width: 22px;
+	height: 20px;
+	margin-left: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	font-size: 12px;
+	font-weight: 700;
+
+	border: 1px solid #a0627b;
+	border-radius: 50%;
+}
+
+.rounded {
+	border: 0.5px solid #a0627b;
+	border-radius: 12px;
+}
+.rounded:hover {
+	box-shadow: 2px 1px 4px rgba(99, 93, 96, 0.3);
+}
+
+.closeBtn {
+	width: 20px;
+	height: 20px;
+	padding: 3px;
+	position: relative;
+	background-color: #ffffff;
+	border-radius: 50%;
+}
+.closeBtn path {
+	width: 18px;
+	height: 18px;
+}

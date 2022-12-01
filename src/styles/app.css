@@ -1,0 +1,19 @@
+body {
+	font-family: 'Open Sans Hebrew' !important;
+
+	width: 60vw;
+	height: 100vh;
+	margin: 0 auto;
+}
+
+button,
+input {
+	font-family: 'Open Sans Hebrew' !important;
+}
+
+.app {
+}
+
+.component {
+	padding: 30px 0;
+}

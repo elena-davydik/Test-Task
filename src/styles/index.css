@@ -1,0 +1,8 @@
+@import './reset.css';
+@import './app.css';
+@import './components/button.css';
+@import './components/toggle.css';
+@import './components/inputs.css';
+@import './components/card.css';
+@import './components/chipsGroup.css';
+@import './components/dialog.css';

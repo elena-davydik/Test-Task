@@ -1,0 +1,49 @@
+.dialog {
+	margin: 0 auto;
+	padding: 25px 50px;
+	background: #f9f9f9;
+	border-radius: 20px;
+	box-shadow: 7px 7px 20px 10px rgba(46, 103, 140, 0.2), 0px 6px 60px rgba(0, 0, 0, 0.12);
+}
+
+.dialog__types {
+	padding: 30px;
+	display: grid;
+	justify-items: center;
+	grid-template-rows: repeat(2, 1fr);
+	grid-template-columns: repeat(2, 1fr);
+}
+
+.dialog__title {
+	font-size: 22px;
+}
+
+.dialog__btn {
+	width: 180px;
+	height: 40px;
+	margin: 10px;
+	padding: 5px 10px;
+
+	display: inline-flex;
+	align-items: center;
+
+	font-size: 16px;
+	color: #a0627b;
+	fill: #a0627b;
+}
+
+.dialog__btn:hover {
+	color: #a85a79;
+	fill: #a85a79;
+}
+
+.dialog__bnts {
+	display: flex;
+	justify-content: space-between;
+}
+
+.dialog__bnts button {
+	margin: 0 30px;
+	padding: 10px 60px;
+	font-size: 22px;
+}

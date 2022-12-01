@@ -1,0 +1,33 @@
+.card {
+	width: 400px;
+	margin: 0 auto;
+	padding: 30px;
+
+	background: #ffffff;
+	border: 0.5px solid #b7cee8;
+	border-radius: 12px;
+}
+
+.card__item:not(:last-child) {
+	margin-bottom: 16px;
+}
+
+.card__btn {
+	width: 20px;
+	height: 20px;
+	margin: 0;
+	padding: 2px 1px;
+
+	background-color: #ffffff;
+}
+
+.card__title {
+	margin-right: 10px;
+	display: inline-block;
+}
+
+.card__btn > img {
+	width: 15px;
+	height: 15px;
+	margin: 0;
+}
